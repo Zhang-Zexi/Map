@@ -1,3 +1,5 @@
+import javax.xml.soap.Node;
+
 public interface Map<K, V> {
 
     void add(K key, V value);
